@@ -1,3 +1,3 @@
 # TimeSeriesForecasting
 
-This repo serves as have a benchmark for evaluating time series forecast models.
+This repo serves as a benchmark for evaluating time series forecast models.
