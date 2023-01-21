@@ -22,3 +22,4 @@ tabulate
 pmdarima
 shap
 Jinja2
+pytorch
