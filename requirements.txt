@@ -3,7 +3,6 @@ gluonts
 pydantic
 pystan
 requests
-xgboost
 prophet
 lightgbm
 bayesian-optimization
@@ -22,4 +21,5 @@ tabulate
 pmdarima
 shap
 Jinja2
-pytorch
+torch
+xgboost
